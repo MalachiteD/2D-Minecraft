@@ -1,0 +1,31 @@
+.body-background{
+    background-image: url("https://i.ytimg.com/vi/Dg0IjOzopYU/maxresdefault.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#head-info{
+    width: 600px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+h3{
+    display: inline-block;
+}
+
+span{
+    color: black;
+}
+
+h2{
+    width: 200px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+#myCanvas{
+    border-width: 10px;
+    border-style: ridge;
+    background-color: white;
+}
